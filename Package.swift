@@ -10,6 +10,6 @@ let package = Package(
             targets: ["Bounds"]),
     ],
     targets: [
-        .binaryTarget(name: "Bounds", url: "https://pods.regulaforensics.com/Bounds/7.5.10925/DocumentReaderCore_bounds_7.5.10925.zip", checksum: "45df8b7fa3535bae8f750dbd72980d1a47220fbfb88deef2d0459222653ca11a"),
+        .binaryTarget(name: "Bounds", url: "https://pods.regulaforensics.com/Bounds/7.5.10988/DocumentReaderCore_bounds_7.5.10988.zip", checksum: "5e0c2a7550854cd056df86c13b77ae322c3178da95d5356d8810669124743d09"),
     ]
 )
