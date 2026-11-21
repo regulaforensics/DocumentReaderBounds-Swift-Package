@@ -7,12 +7,12 @@ let package = Package(
     products: [
         .library(
             name: "Bounds",
-            targets: ["Bounds"]),
+            targets: ["BoundsStage"]),
     ],
     targets: [
         .binaryTarget(
-            name: "Bounds",
-            url: "https://pods.regulaforensics.com/Bounds/9.10.21765/DocumentReaderCore_bounds_9.10.21765.zip",
-            checksum: "cc4e2e23eca2d3b2b0e693c0d094778dbd8b8f8285d473c5c60f3be0f887fb4e"),
+            name: "BoundsStage",
+            url: "https://pods.regulaforensics.com/Stage/BoundsStage/9.11.21782/DocumentReaderCoreStage_bounds_9.11.21782.zip",
+            checksum: "eb7470cce297c0930b48423c5cb4fb6bee3a7d91bc3119f0072712187048c890"),
     ]
 )
